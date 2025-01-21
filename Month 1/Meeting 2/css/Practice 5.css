@@ -1,0 +1,25 @@
+body{
+    background-image:url("../material/cleaning4.jpg");
+    background-size:1500px;
+    /* margin-left:50px; */
+    background-attachment: fixed;
+    padding:80px;
+}
+img{
+    width:50%;
+    opacity:1.0;
+}
+p{
+    font-size:26px;
+}
+a{
+    font-size:26px;
+}
+div{
+    background-color:black;
+    padding:25px;
+    margin:8px auto;
+    opacity: 0.9;
+    border-radius:10px;
+
+}
