@@ -1,0 +1,23 @@
+img{
+    width:30%;
+    opacity:1.0;
+}
+p{
+    font-size:26px;
+}
+a{
+    font-size:26px;
+}
+div{
+    background-color:Gainsboro;
+    padding:25px;
+    margin:8px auto;
+    opacity: 0.9;
+    border-radius:10px;
+}
+div>div{
+    width:80%;
+}
+div>div>div{
+    width:30%;
+}
