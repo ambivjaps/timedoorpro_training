@@ -10,6 +10,8 @@ h2{
 }
 h3{
     font-size:30px;
+    text-transform:uppercase;
+    text-decoration:underline wavy;
 }
 img{
     width:100%;
