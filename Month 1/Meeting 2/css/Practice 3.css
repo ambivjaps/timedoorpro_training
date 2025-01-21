@@ -1,0 +1,28 @@
+body{
+    background-image:url("../images/cleaning.jpg");
+    background-size:1700px;
+    margin-left:50px;
+    background-attachment: fixed;
+    padding-right:800px;
+}
+
+img{
+    width:30%;
+}
+
+h2{
+    font-size:36px;
+    margin-right:300px;
+}
+
+p{
+    font-size:26px;
+}
+
+a{
+    font-size:16px;
+}
+
+ol,li{
+    font-size:26px;
+}
