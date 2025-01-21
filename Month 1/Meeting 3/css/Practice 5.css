@@ -20,6 +20,8 @@ table{
 }
 a {
     display:block;
+    color: gray;
+    text-decoration: none;
 }
 p {
     font-size:18px;
