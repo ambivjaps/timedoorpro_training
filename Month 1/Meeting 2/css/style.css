@@ -1,0 +1,21 @@
+body{
+    background-image:url("../images/background3.jpeg");
+    background-size:1600px;
+    background-position: center;
+    /* margin-left:50px; */
+    text-align:center;
+    background-attachment: fixed;
+}
+h1{
+    font-size:45px;
+}
+h2{
+    font-size:35px;
+}
+img{
+    width:100%;
+}
+a{
+    display:block;
+    font-size:35px;
+}
