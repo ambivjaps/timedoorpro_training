@@ -1,0 +1,21 @@
+body{
+    margin-left:50px;
+    text-align:center;
+}
+h1{
+    font-size:45px;
+}
+h2{
+    font-size:35px;
+}
+h3{
+    font-size:30px;
+}
+img{
+    width:100%;
+}
+a{
+    display:block;
+    font-size:20px;
+    text-decoration: none;
+}
